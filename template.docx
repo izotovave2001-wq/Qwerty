@@ -1,0 +1,4 @@
+№ {{case_id}}
+{{developer}}
+Объект: {{object_name}}
+Дата: {{date}}
